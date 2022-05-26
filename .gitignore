@@ -1,0 +1,12 @@
+*
+!*/
+!/.gitignore
+
+!/LICENSE
+!/README.md
+
+!/github_wiki_pydoc/**/*.py
+!/test/**/*.py
+
+!/setup.py
+!/setup.cfg
