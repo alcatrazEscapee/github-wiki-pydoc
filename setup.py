@@ -1,9 +1,4 @@
-#  Part of mcresources by Alex O'Neill
-#  Work under copyright. Licensed under MIT
-#  For more information see the project LICENSE file
-
 import os
-
 import setuptools
 
 # Read README.md into the setuptools long description
